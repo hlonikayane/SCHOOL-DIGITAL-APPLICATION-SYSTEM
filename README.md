@@ -21,7 +21,7 @@ The system aims to reduce manual paperwork, improve accessibility, minimise erro
 222002417	L Kayane
 223028212 GD Sekhula
 222040802	TH Mosia
-216009568 MN MATLA
+216009568 MN Matla
 
 
 ## Current Project Stage
