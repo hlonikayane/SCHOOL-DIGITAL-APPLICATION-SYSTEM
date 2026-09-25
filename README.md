@@ -59,7 +59,7 @@ Supabase provides:
 
 ## Design Sources
 
-- Figma: [Admin Portal]
+- Figma: [Admin Portal & Mobile Application]
 - GitHub: [Repository]
 - Supabase: [Project]
 
