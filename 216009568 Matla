@@ -32,7 +32,7 @@ Progress Workbook: Completed project overview, task progress, and stakeholder en
 
 Verification:
 Verified by Group	Verification Date	Status
-Yes	25/08/2026	Verified
+Yes	25/08/2026
 Participation Comments:
 Actively participated in all group meetings and discussions
 
@@ -44,3 +44,22 @@ No participation concerns
 
 Assessed the feasibility of the ASP.NET integration and security requirements
 Assited with SWOT Analysis
+
+ASP.NET administrator portal
+Admin login
+Admin dashboard
+Manage announcements
+Manage subjects
+View applications
+Search applications
+Filter applications
+Application details
+Approve applications
+Reject applications
+Add application notes
+Account management
+Password management
+ASP.NET + Supabase workflow
+Admin sequence diagram
+Admin-side testing
+
