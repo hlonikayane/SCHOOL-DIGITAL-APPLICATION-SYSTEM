@@ -53,7 +53,7 @@ Supabase provides:
 
 ## Group Members
 
-| Student Number | Name | Phase 3 Responsibility |
+| Student Number | Name | Phase 3 Responsibilities |
 |---|---|---|
 | 222020350 | SM Nkosi | SRS / Project Management |
 | 222002417 | L Kayane | Flutter / Supabase Integration |
