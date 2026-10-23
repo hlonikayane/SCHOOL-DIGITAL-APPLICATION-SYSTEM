@@ -64,3 +64,35 @@ Admin sequence diagram
 Admin-side testing
 
 Started with the ASP.Net Web Portal
+
+Reviewing the ERD tables 
+Setting up the shared Supabase
+Creating the Database tables
+Configuring authentication and user access
+Identifying how each application uses the shared backend
+System testing using dummy data
+Initial Backend checks
+Updating project documentation
+Identifying the functions that must be implemented in Flutter
+Preparing the Flutter project
+Developing the approved screens
+Implementing Navigation and Forms
+Connecting flutter to the shared Supabase Backend
+Implementing the Main Mobile functions
+Initial Function Checks
+Updating project documentation
+Identify the functions assigned to the ASP.NET web application
+Preparing the ASP.NET project
+Developing the approved Web Pages
+Implementing Navigation
+Connecting ASP.NET to the shared Supabase Backend
+Implementing the Main Web functions
+Initial Function Checks
+Updating project documentation
+Identifying the processes that require information to move between Flutter, Supabase and ASP.NET.
+Confirming that both Applications use the same backend
+Comparing the database fields and values used in the two applications.
+Checking Authentication and Access across the System
+Recording and Correcting Integration Problems
+Updating project documentation
+
