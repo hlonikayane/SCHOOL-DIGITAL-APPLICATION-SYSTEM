@@ -65,19 +65,19 @@ No participation concerns
 
 Reporting Phase 3
 Tasks assigned
-- Reviewing the ERD tables 
-- Creating the Database tables
-- Identifying how each application uses the shared backend
+- Contributed in reviewing the ERD tables 
+- Assisted in creating the Database tables
+- Contributed in identifying how each application uses the shared backend
 - Identifying the functions that must be implemented in Flutter
-- Preparing the Flutter project
+- Assisted in preparing the Flutter project
 - Developing the approved screens
 - Implementing Navigation and Forms
 - Initial Function Checks
 - Updating project documentation
-- Preparing the ASP.NET project
+- Contributed in preparing the ASP.NET project
 - Implementing the Main Web functions
 - Identifying the processes that require information to move between Flutter, Supabase and ASP.NET.
-- Comparing the database fields and values used in the two applications.
+- Assisted in comparing the database fields and values used in the two applications.
 - Recording and Correcting Integration Problems
 - Updating project documentation and confirming all functionality
 
