@@ -28,7 +28,7 @@ No participation concerns
 
 
 Reporting Phase 1 Unit 2
-Task Assigned
+Tasks Assigned
 Activity 2.1 - Reviewing the current project
 Activity 2.1 - Evaluate available resources (Econimic feasibility)
 Activity 2.1 - Consolidate all feasibility areas and draft overall feasibility conclusion
@@ -51,7 +51,7 @@ Yes, 28/08/2026
 
 Reporting Phase 2
 
-Task assigned
+Tasks assigned
 Contributed to the finalization of the combined UML use case diagram with system boundary, actors, and relationships
 Completed the requirements for use cases, sequence diagrams, ERD, and interfaces
 Updated the Phase 2 progress tracker and compiled individual contribution evidence
@@ -64,3 +64,23 @@ Consistently contributed to group discussions and decision-making
 No participation concerns
 
 Reporting Phase 3
+Tasks assigned
+- Reviewing the ERD tables 
+- Creating the Database tables
+- Identifying how each application uses the shared backend
+- Identifying the functions that must be implemented in Flutter
+- Preparing the Flutter project
+- Developing the approved screens
+- Implementing Navigation and Forms
+- Initial Function Checks
+- Updating project documentation
+- Preparing the ASP.NET project
+- Implementing the Main Web functions
+- Identifying the processes that require information to move between Flutter, Supabase and ASP.NET.
+- Comparing the database fields and values used in the two applications.
+- Recording and Correcting Integration Problems
+- Updating project documentation and confirming all functionality
+
+Consistently contributed to group discussions and decision-making
+
+No participation concerns
