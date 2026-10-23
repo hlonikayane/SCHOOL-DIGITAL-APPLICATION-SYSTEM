@@ -67,4 +67,25 @@ Activity 3.4  Conducted stakeholder/design review and record feedback or confirm
 Activity 3.4  Prepared Phase 2 presentation covering architecture, UML, sequences, ERD, UI, alignment and progress.
 Activity 3.4  Final Phase 2 submission package review and submission readiness check.
 
+PHASE 3
+Activity 4.1  Created database tables
+Activity 4.1  Configured authentication and user access
+Activity 4.1  identified how each application uses the shared backend
+Activity 4.2  Implemented Navigation and Forms
+Activity 4.2  Performed initial functions checks
+Activity 4.2  Identified the functions assigned to the ASP.NET web application
+Activity 4.3  Prepared ASP.NET project
+Activity 4.3  Identified the processes that require information to move between Flutter, Supabase and ASP.NET
+Activity 4.3  Compared the database fields and values used in the two applications.
+Activity 4.3  Checked Authentication and Access across the System
+Activity 4.3  Recorded and Correcting Integration Problems
+Activity 4.3 Updated project documentation
+
+
+
+
+
+
+
+
 
